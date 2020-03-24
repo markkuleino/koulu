@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="267.17825mm"
-   height="361.91229mm"
-   viewBox="0 0 267.17825 361.9123"
+   width="273.07214mm"
+   height="375.1257mm"
+   viewBox="0 0 273.07214 375.12571"
    version="1.1"
    id="svg1157"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="24.081068"
-     inkscape:cy="718.38813"
+     inkscape:zoom="0.35"
+     inkscape:cx="129.53773"
+     inkscape:cy="860.64742"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,7 +57,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(46.202475,-10.42515)">
+     transform="translate(46.667116,-3.7240062)">
     <path
        sodipodi:type="star"
        style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.37259388;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -263,7 +263,7 @@
          style="stroke-width:0.26458332">&quot;kanta&quot; = 4</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:97.61466217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:0.42786071;stroke:none;stroke-width:0.26458338;"
+       style="font-style:normal;font-weight:normal;font-size:97.61466217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:0.42786069;stroke:none;stroke-width:0.26458338"
        x="127.1133"
        y="21.592419"
        id="text1763"
@@ -272,6 +272,15 @@
          id="tspan1761"
          x="127.1133"
          y="21.592419"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, ';stroke-width:0.26458338;fill:#ff00ff;fill-opacity:0.42786071;">Esimerkki</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, ';fill:#ff00ff;fill-opacity:0.42786069;stroke-width:0.26458338">Esimerkki</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.42786069;stroke:#b12929;stroke-width:5.46500015;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1765"
+       width="267.60715"
+       height="369.66071"
+       x="-43.934616"
+       y="6.4565063"
+       ry="21.922619"
+       rx="21.922619" />
   </g>
 </svg>
